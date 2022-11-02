@@ -6,7 +6,7 @@ URL del sitio web elegido: https://github.com/dgargaru/tcvd-practica1/
 
 ## Autores
   * Diego García García - [dgargaru@uoc.edu](dgargaru@uoc.edu)
-  * Nombre Apellidos - [email@uoc.edu](email@uoc.edu)
+  * Alba Caberno Fernández - [acaderno@uoc.edu](acaderno@uoc.edu)
 
 ## Descripción del repositorio
 Breve desripción de la práctica/sitio web elegido.
