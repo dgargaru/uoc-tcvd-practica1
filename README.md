@@ -12,7 +12,7 @@ URL del sitio web elegido: https://github.com/dgargaru/tcvd-practica1/
 Breve desripción de la práctica/sitio web elegido.
 
   * `memoria.pdf`: Documento de respuestas.
-  * `/source/scraper.py`: Archivo principal.
+  * `/source/main.py`: Archivo principal del código fuente.
   * `/source/requirements.txt`: Lista de paquetes utilizados (Python 3.10).
   * `/dataset/tweets_musk.csv`: Descripción archivo.
   
