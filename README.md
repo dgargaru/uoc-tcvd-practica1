@@ -5,7 +5,7 @@ Asignatura: M2.851 / Semestre: 2022-1 / Fecha: 25-10-2022
 URL del sitio web elegido: https://github.com/dgargaru/tcvd-practica1/
 
 ## Autores
-  * Alba Caberno Fernández - [acaderno@uoc.edu](acaderno@uoc.edu)
+  * Alba Caderno Fernández - [acaderno@uoc.edu](acaderno@uoc.edu)
   * Diego García García - [dgargaru@uoc.edu](dgargaru@uoc.edu)
 
 ## Descripción del repositorio
